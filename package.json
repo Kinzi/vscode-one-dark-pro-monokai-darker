@@ -1,9 +1,9 @@
 {
-    "name": "one-dark-pro-monokai-darker",
-    "displayName": "One Dark Pro Monokai Darker Theme",
-    "description": "A Darker One Dark Pro variation with Monokai scheme",
+    "name": "one-dark-pro-monokai-darker-derkinzi",
+    "displayName": "One Dark Pro Monokai Darker Theme - derkinzi",
+    "description": "A Darker One Dark Pro variation with Monokai scheme and more contrast based on https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker.git",
     "version": "1.1.0",
-    "publisher": "eserozvataf",
+    "publisher": "derkinzi",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -33,8 +33,9 @@
         "theme",
         "onedark",
         "monokai",
-        "darker"
+        "darker",
+        "high contrast"
     ],
-    "author": "Eser Ozvataf <eser@ozvataf.com> (http://eser.ozvataf.com)",
+    "author": "Sebastian Kinzlinger (http://derkinzi.de)",
     "license": "MIT"
 }
