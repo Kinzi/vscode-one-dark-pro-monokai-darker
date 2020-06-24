@@ -1,3 +1,7 @@
+# My Edit
+
+Tweaked colors to be brighter and have a little more contrast.
+
 # [One Dark Pro Monokai Darker](https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/eserozvataf.one-dark-pro-monokai-darker.svg)](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker) [![Installs](https://vsmarketplacebadge.apphb.com/installs/eserozvataf.one-dark-pro-monokai-darker.svg)](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/eserozvataf.one-dark-pro-monokai-darker.svg)](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker)
